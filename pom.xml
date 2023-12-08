@@ -60,6 +60,7 @@
         <module>providers/redis/shedlock-provider-redis-spring</module>
         <module>providers/redis/shedlock-provider-redis-quarkus2</module>
         <module>providers/dynamodb/shedlock-provider-dynamodb2</module>
+        <module>providers/momento/shedlock-provider-momento</module>
         <module>providers/cassandra/shedlock-provider-cassandra</module>
         <module>providers/consul/shedlock-provider-consul</module>
         <module>providers/arangodb/shedlock-provider-arangodb</module>
